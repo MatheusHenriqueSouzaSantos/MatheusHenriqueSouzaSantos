@@ -6,7 +6,7 @@ Enthusiast Clean Backend Architecture
 
 ## Main Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,dotnet,idea,postgres,git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,idea,postgres,git,github,postman)](https://skillicons.dev)
 
 ## Other Expirences
 
