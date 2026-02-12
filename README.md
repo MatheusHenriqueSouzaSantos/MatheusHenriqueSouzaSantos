@@ -1,6 +1,6 @@
 ## Hi there, I'm Matheus 👋
 
-## Backend Developer in progress 
+## Backend Developer focused on Java & Spring
 
 ## Main Technologies
 
