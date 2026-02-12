@@ -1,7 +1,7 @@
 ## Hi there, I'm Matheus 👋
 
 ## Backend Developer focused on Java & Spring
-Building REST APIs with jwt authentication
+Building REST APIs with jwt authentication</br>
 Enthusiast Clean Backend Architecture 
 
 ## Main Technologies
