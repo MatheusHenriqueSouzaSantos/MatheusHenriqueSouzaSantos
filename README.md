@@ -8,6 +8,6 @@ Enthusiast Clean Backend Architecture
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,dotnet,idea,postgres,git,github,postman)](https://skillicons.dev)
 
-## Other Expiriences
+## Other Expirences
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio)](https://skillicons.dev)
