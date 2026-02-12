@@ -4,4 +4,4 @@
 
 ## Main Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,jwt,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,dotnet,postgres,git,intelij,)](https://skillicons.dev)
