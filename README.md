@@ -2,7 +2,7 @@
 
 ## Backend Developer focused on Java & Spring
 Building REST APIs with jwt authentication</br>
-Enthusiast Backend And Everything related with computing
+Enthusiast Backend And Everything related with Computing
 
 ## Main Technologies
 
