@@ -6,5 +6,5 @@ Enthusiast Backend And Everything related with Computing
 
 ## Main Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,idea,postgres,git,github,docker,dotnet,visualstudio,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,idea,postgres,git,rabbitmq,github,docker,dotnet,visualstudio,postman)](https://skillicons.dev)
 
