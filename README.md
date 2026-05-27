@@ -1,8 +1,8 @@
 ## Hi there, I'm Matheus 👋
 
-## Backend Developer focused on Java & Spring
+#### Backend Developer | Main focus on Java & Spring Boot
 Building REST APIs with jwt authentication</br>
-Enthusiast Backend And Everything related with Computing
+Passionate about backend development and everything computing
 
 ## Main Technologies
 
@@ -10,4 +10,4 @@ Enthusiast Backend And Everything related with Computing
 
 ## Other Tecnologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,react-native,dotnet,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,dotnet,visualstudio)](https://skillicons.dev)
