@@ -10,4 +10,4 @@ Enthusiast Backend And Everything related with Computing
 
 ## Other Tecnologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,reactnative,dotnet,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,react-native,dotnet,visualstudio)](https://skillicons.dev)
