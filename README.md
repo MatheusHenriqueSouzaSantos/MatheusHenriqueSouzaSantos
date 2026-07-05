@@ -6,8 +6,8 @@ Passionate about backend development and everything computing
 
 ## Main Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,idea,dotnet,visualcode,postgres,git,github,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,idea,dotnet,visualstudio,postgres,git,github,docker,postman)](https://skillicons.dev)
 
 ## Other Tecnologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev)
